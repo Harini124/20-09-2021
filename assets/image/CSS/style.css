@@ -1,0 +1,36 @@
+.heading1{
+    color:red;
+}
+.heading4{
+    background: #ddd;
+    border : 1px solid red;
+    padding : 5px 10px
+}
+.heading3{
+    background: blueviolet;
+    border : 1px solid burlywood;
+    padding :2px 5px
+}
+div{
+    background:red ;
+}
+#bg-img{
+    background-image:url("../tree-736885__480.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.font{
+    font-weight : bold;
+    font-size:30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.box-model{
+    height: 100px;
+    margin:30px;
+    width:100px;
+    padding:30px;
+    border:1px solid red;
+    background: #fff;
+    text-align: center;
+
+}
