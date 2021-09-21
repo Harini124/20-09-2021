@@ -12,7 +12,7 @@
     padding :2px 5px
 }
 div{
-    background:red ;
+    background:rgb(245, 244, 244) ;
 }
 #bg-img{
     background-image:url("../tree-736885__480.jpg");
@@ -29,8 +29,28 @@ div{
     margin:30px;
     width:100px;
     padding:30px;
-    border:1px solid red;
+    border:1px solidred;
     background: #fff;
     text-align: center;
 
 }
+ .formatting-text {
+     text-align:center;
+     text-transform:uppercase;
+ }
+ .formatting-text a{
+     text-decoration: none;
+ }
+ .floating-text{
+     float:right;
+     float:none;
+ }
+ .floatleft{
+     float:left;
+ }
+ .floatright{
+     float:right;
+ }
+ .width50{
+     width:50%;
+ }
